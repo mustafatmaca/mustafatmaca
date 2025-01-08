@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I am interested in mobile development. I have knowledge of cross-platform and native programming languages like Flutter and Kotlin. I also have knowledge backdend development languages like Java and C#. I have a basic background in software development topics like OOP, MVC, Version Control.</h3>
+<h1 align="left">Hi 👋, I'm Mustafa</h1>
+
+![first_frame_start_page - Kopya](https://github.com/user-attachments/assets/bfbbfab3-9ba2-45ce-887e-2608eca28cb8)
+
+<h3 align="left">Mobile Developer <sub> <em> I usually use Flutter. </em> </sub> </h3> 
 
 - 📫 How to reach me **mustafaatmaca362@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mustafa_tmaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafa_tmaca" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafaatmaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafaatmaca" height="30" width="40" /></a>
 </p>
 
